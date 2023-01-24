@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.2ce07f3d.css",
+    "main.js": "/shop/static/js/main.e28d0e7f.js",
+    "static/js/787.23170c61.chunk.js": "/shop/static/js/787.23170c61.chunk.js",
+    "static/media/amazon-pay.png": "/shop/static/media/amazon-pay.349e02c09daf15fd3aec.png",
+    "index.html": "/shop/index.html",
+    "static/media/bag.svg": "/shop/static/media/bag.401dfc0f82f1c3a0f6098644029a6a7f.svg",
+    "main.2ce07f3d.css.map": "/shop/static/css/main.2ce07f3d.css.map",
+    "main.e28d0e7f.js.map": "/shop/static/js/main.e28d0e7f.js.map",
+    "787.23170c61.chunk.js.map": "/shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce07f3d.css",
+    "static/js/main.e28d0e7f.js"
+  ]
+}
